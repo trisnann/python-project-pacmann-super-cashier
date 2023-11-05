@@ -51,25 +51,25 @@ Berfungsi untuk menghitung jumlah biaya yang perlu dibayar oleh Customer
 <img width="739" alt="total_price" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/96fb332e-da5a-49b1-9483-b0e9d764ec00">
 ### E. Demonstrasi Test Case
 <img width="641" alt="test-case-0" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/8783ad76-d3ac-4d81-ba85-bf9af0822f27">
-#### Test Case 1
+### Test Case 1
 <img width="639" alt="test-case-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/74b0d914-6204-4563-b3d2-d621b86801c4">
-#### Test Case 2
+### Test Case 2
 <img width="558" alt="test-case-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/f7f1b955-8101-400e-b2ad-3d2be0bba1ea">
-Menambahkan item lagi
+<br>Menambahkan item lagi
 <img width="556" alt="test-case-2-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/212d9fbf-abe9-4d31-b0b7-2359f2cd8f01">
-Mengubah nama item
+<br>Mengubah nama item
 <img width="551" alt="test-case-2-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/f2d6d05f-d65b-44ed-ba05-2240afd5447b">
-Mengubah jumlah item
+<br>Mengubah jumlah item
 <img width="561" alt="test-case-2-3" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/8f038f20-7053-4b6b-902a-a121a4d3b02d">
-Mengubah harga per item
+<br>Mengubah harga per item
 <img width="597" alt="test-case-2-4" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/618355ee-41b3-4fd4-ad8d-709cc9471667">
-#### Test Case 3
+### Test Case 3
 <img width="643" alt="test-case-3" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/8fc52a90-8cdd-4a7a-900e-ff804a931187">
-Menambahkan item lagi
+<br>Menambahkan item lagi
 <img width="544" alt="test-case-3-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/6978b908-bf2d-48dc-8d23-fdeb03c2a6cd">
-Pengecekan data pesanan
+<br>Pengecekan data pesanan
 <img width="567" alt="test-case-3-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/ba6d8eba-b91d-4c03-9f8b-ccba1c7c14ff">
-#### Test Case 4
+### Test Case 4
 <img width="637" alt="test-case-4" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/76f1cbf9-eeb9-4f54-96e7-17dfb502aed6">
 ### F. Future Work
 a. Dalam sistem sudah tersedia data berikut:
@@ -79,4 +79,4 @@ a. Dalam sistem sudah tersedia data berikut:
 <br>b. Menambahkan sistem membership untuk memperoleh keuntungan lebih dari diskon yang telah tersedia
 <br>c. Menambahkan input data alamat, ongkos kirim untuk customer yang berasal dari luar kota atau yang memilih delivery
 <br>
-### Terima kasih atas bimbingannya untuk seluruh tim Pacmann khususnya Kak Shandy selaku instruktur live class dan mentoring, Kak Erlando selaku instruktur mentoring dan Kak Aliya selaku student consultant
+Terima kasih atas bimbingannya untuk seluruh tim Pacmann khususnya Kak Shandy selaku instruktur live class dan mentoring, Kak Erlando selaku instruktur mentoring dan Kak Aliya selaku student consultant
