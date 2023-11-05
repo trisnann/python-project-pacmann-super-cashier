@@ -22,7 +22,7 @@ Berikut alur program pembuatan self service cashier
 Berfungsi sebagai inisiasi untuk class class Transation()
 <img width="398" alt="init()" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/96cbc06c-b615-4b02-81b4-8dda101f0290">
 #### b. add_item 
- Berfungsi untuk memasukkan data pesanan berupa nama item, jumlah item, dan harga per item
+Berfungsi untuk memasukkan data pesanan berupa nama item, jumlah item, dan harga per item
 <img width="596" alt="add_item" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/acdc12d9-8761-4ba1-940c-b5bda090868b">
 #### c. show_order 
 Berfungsi untuk menampilkan daftar pesanan yang sudan diinput dalam bentuk tabel
