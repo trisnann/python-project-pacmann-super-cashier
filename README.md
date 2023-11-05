@@ -52,32 +52,36 @@ Berfungsi untuk menghitung jumlah biaya yang perlu dibayar oleh Customer
 ### E. Demonstrasi Test Case
 <img width="641" alt="test-case-0" src="https://github.com/trisnann/python-project-pacmann-super-
 cashier/assets/149927711/8783ad76-d3ac-4d81-ba85-bf9af0822f27">
-
 ### Test Case 1
 <img width="639" alt="test-case-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/74b0d914-6204-4563-b3d2-d621b86801c4">
-
 ### Test Case 2
 <img width="558" alt="test-case-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/f7f1b955-8101-400e-b2ad-3d2be0bba1ea">
 <br>
 <br>Menambahkan item lagi
+<br>
 <img width="556" alt="test-case-2-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/212d9fbf-abe9-4d31-b0b7-2359f2cd8f01">
 <br>
 <br>Mengubah nama item
+<br>
 <img width="551" alt="test-case-2-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/f2d6d05f-d65b-44ed-ba05-2240afd5447b">
 <br>
 <br>Mengubah jumlah item
+<br>
 <img width="561" alt="test-case-2-3" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/8f038f20-7053-4b6b-902a-a121a4d3b02d">
 <br>
 <br>Mengubah harga per item
+<br>
 <img width="597" alt="test-case-2-4" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/618355ee-41b3-4fd4-ad8d-709cc9471667">
 
 ### Test Case 3
 <img width="643" alt="test-case-3" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/8fc52a90-8cdd-4a7a-900e-ff804a931187">
 <br>
 <br>Menambahkan item lagi
+<br>
 <img width="544" alt="test-case-3-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/6978b908-bf2d-48dc-8d23-fdeb03c2a6cd">
 <br>
 <br>Pengecekan data pesanan
+<br>
 <img width="567" alt="test-case-3-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/ba6d8eba-b91d-4c03-9f8b-ccba1c7c14ff">
 
 ### Test Case 4
