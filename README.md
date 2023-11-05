@@ -20,6 +20,7 @@ Berikut alur program pembuatan self service cashier
 ### D. Penjelasan functions
 #### a. init()
 Berfungsi sebagai inisiasi untuk class class Transation()
+<br>
 <img width="398" alt="init()" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/96cbc06c-b615-4b02-81b4-8dda101f0290">
 #### b. add_item 
 Berfungsi untuk memasukkan data pesanan berupa nama item, jumlah item, dan harga per item
@@ -77,4 +78,5 @@ a. Dalam sistem sudah tersedia data berikut:
 <br> - Harga barang, sehingga kesalahan input harga barang dapat dihindari
 <br>b. Menambahkan sistem membership untuk memperoleh keuntungan lebih dari diskon yang telah tersedia
 <br>c. Menambahkan input data alamat, ongkos kirim untuk customer yang berasal dari luar kota atau yang memilih delivery
+<br>
 ### Terima kasih atas bimbingannya untuk seluruh tim Pacmann khususnya Kak Shandy selaku instruktur live class dan mentoring, Kak Erlando selaku instruktur mentoring dan Kak Aliya selaku student consultant
