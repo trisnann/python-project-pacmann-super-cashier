@@ -50,10 +50,11 @@ Berfungsi untuk memastikan data yang diinputkan sudah benar
 Berfungsi untuk menghitung jumlah biaya yang perlu dibayar oleh Customer
 <img width="739" alt="total_price" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/96fb332e-da5a-49b1-9483-b0e9d764ec00">
 ### E. Demonstrasi Test Case
-<img width="641" alt="test-case-0" src="https://github.com/trisnann/python-project-pacmann-super-
-cashier/assets/149927711/8783ad76-d3ac-4d81-ba85-bf9af0822f27">
+<img width="641" alt="test-case-0" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/c20c140b-4e8e-4319-bcec-d0326d48d077">
+
 ### Test Case 1
 <img width="639" alt="test-case-1" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/74b0d914-6204-4563-b3d2-d621b86801c4">
+
 ### Test Case 2
 <img width="558" alt="test-case-2" src="https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/f7f1b955-8101-400e-b2ad-3d2be0bba1ea">
 <br>
