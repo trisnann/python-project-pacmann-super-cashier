@@ -16,7 +16,7 @@ Berikut beberapa fitur yang akan dibangun :
 <br>j. Fitur untuk menghitung jumlah biaya yang perlu dibayar oleh Customer 
 ### C. Flowchart
 Berikut alur program pembuatan self service cashier
-![Alt text](flowchat.png)
+![flowchat](https://github.com/trisnann/python-project-pacmann-super-cashier/assets/149927711/1795fc0c-9a5b-4d97-a7b5-a59d2e9ea811)
 ### D. Penjelasan functions
 #### a. init()
 Berfungsi sebagai inisiasi untuk class class Transation()
